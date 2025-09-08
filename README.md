@@ -1,5 +1,5 @@
 # PrasadWorkSpace
-Repository of all activities showcasing my honed skillsets in the Data Science Career Space
+Repository of all activities showcasing my honed skillsets in the Data Career Space (Data Science as well as Data Analyst).
 
 I have worked with tools like Microsoft Excel, Google Spreadsheets, SQL on Google BigQuery Platform, Python in Jupyter notebooks, Creating colorful dashboards on Tableau.
 
