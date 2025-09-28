@@ -1,0 +1,14 @@
+Project Title: Diwali Festive Season Sales Analysis using Python
+Tools Used: Python, Pandas, Matplotlib
+
+Performed data gathering, cleaning, and exploratory data analysis (EDA) on Diwali sales data using Pandas. 
+Visualized customer buying behavior and sales trends using Matplotlib to identify high-performing segments. 
+Derived insights to help improve sales strategies for festive campaigns.
+
+Detailed Summary: 
+
+Created visualizations using Matplotlib to understand customer demographics, product categories, and purchase trends.
+
+Key metrics analyzed: Age group-wise spending, gender-based purchase trends, city-wise performance, and occupation impact on sales.
+
+Provided actionable business insights for optimizing festive marketing strategies.
